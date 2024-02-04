@@ -1,5 +1,5 @@
 {
-  "name": "contrast-color",
+  "name": "@zhujiegogogo/contrast-color",
   "version": "1.0.0",
   "description": "Calculate the foreground color with the highest contrast based on the background color",
   "main": "lib/index.js",
