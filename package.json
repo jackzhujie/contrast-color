@@ -1,11 +1,11 @@
 {
   "name": "@zhujiegogogo/contrast-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate the foreground color with the highest contrast based on the background color",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-	"test": "jest --config jestconfig.json",
+    "test": "jest --config jestconfig.json",
     "build": "tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "lint": "eslint",
@@ -19,7 +19,9 @@
     "lib/**/*"
   ],
   "homepage": "https://github.com/jackzhujie/contrast-color",
-  "keywords": ["Calculate color"],
+  "keywords": [
+    "Calculate color"
+  ],
   "author": "jackzhujie",
   "license": "ISC",
   "devDependencies": {
